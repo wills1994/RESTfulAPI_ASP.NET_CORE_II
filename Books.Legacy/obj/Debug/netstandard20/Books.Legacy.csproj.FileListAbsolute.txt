@@ -1,0 +1,8 @@
+D:\Programacion\PluralSight\Books\Books.Legacy\bin\Debug\netstandard20\Books.Legacy.deps.json
+D:\Programacion\PluralSight\Books\Books.Legacy\bin\Debug\netstandard20\Books.Legacy.dll
+D:\Programacion\PluralSight\Books\Books.Legacy\bin\Debug\netstandard20\Books.Legacy.pdb
+D:\Programacion\PluralSight\Books\Books.Legacy\obj\Debug\netstandard20\Books.Legacy.AssemblyInfoInputs.cache
+D:\Programacion\PluralSight\Books\Books.Legacy\obj\Debug\netstandard20\Books.Legacy.AssemblyInfo.cs
+D:\Programacion\PluralSight\Books\Books.Legacy\obj\Debug\netstandard20\Books.Legacy.csproj.CoreCompileInputs.cache
+D:\Programacion\PluralSight\Books\Books.Legacy\obj\Debug\netstandard20\Books.Legacy.dll
+D:\Programacion\PluralSight\Books\Books.Legacy\obj\Debug\netstandard20\Books.Legacy.pdb
