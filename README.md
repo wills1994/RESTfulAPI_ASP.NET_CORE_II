@@ -18,17 +18,17 @@ Para que una API se considere de **RESTful**, debe cumplir los siguientes criter
 
 # CACHING - Validation Model - Etags
 
-![Validation Model](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/50dc05d0-fd4d-45c2-b4ae-88985b56a320/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210120%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210120T161219Z&X-Amz-Expires=86400&X-Amz-Signature=8ecf03fe4823d6e7770ece5e25b434ae7486697449b312b9ce05db8590ab3fe7&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
+![Validation Model](https://storage.cloudconvert.com/tasks/a7c1ede7-11a9-474f-af08-f1a38617a688/1.png?AWSAccessKeyId=cloudconvert-production&Expires=1611853268&Signature=NqZvrOp52J06CCaW61uLLa4HMns%3D&response-content-disposition=inline%3B%20filename%3D%221.png%22&response-content-type=image%2Fpng)
 
 # Supporting Concurrency
 
-![Supporting Concurrency](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1b715481-697d-4481-a44b-8203700d774e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210120%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210120T161316Z&X-Amz-Expires=86400&X-Amz-Signature=788fe7137799f28df4fdf1aaa49470c9577791368a29d93e466981ec0a29c1ee&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
+![Supporting Concurrency](https://storage.cloudconvert.com/tasks/b1197cde-d478-44cf-8d94-77123c0103f0/2.png?AWSAccessKeyId=cloudconvert-production&Expires=1611853276&Signature=%2FV%2B6SaBogKlpwaAynP7uiLv3Rog%3D&response-content-disposition=inline%3B%20filename%3D%222.png%22&response-content-type=image%2Fpng)
 
 # HATEAOS
 Ofrecer una interfaz universal. El cliente pueda moverse por la aplicación web únicamente siguiendo a los identificadores únicos URI en formato hipermedia.
 
-![HATEAOS](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/34e93eff-1e47-48a8-95eb-0ced0d1e4e91/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210120%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210120T161449Z&X-Amz-Expires=86400&X-Amz-Signature=f43b0fe34a9fde29cf4baee191fff7204c28cca760144b4aaf85307804f620d7&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
+![HATEAOS](https://storage.cloudconvert.com/tasks/72af824f-97ba-4399-9fb4-594538acc784/4.png?AWSAccessKeyId=cloudconvert-production&Expires=1611853276&Signature=Au4nl9FbaaKEP90E6QouzgELjIU%3D&response-content-disposition=inline%3B%20filename%3D%224.png%22&response-content-type=image%2Fpng)
 
 # Shaping Data
 
-![Shaping Data](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4717bc8f-4b64-4643-a30e-e1cf5c9321d1/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210120%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210120T161959Z&X-Amz-Expires=86400&X-Amz-Signature=b5643f9d82a6e17d41dd2c32c60c28d2d90a219bb067750faa6163a1420b1886&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
+![Shaping Data](https://storage.cloudconvert.com/tasks/9ad4aec8-b070-444c-a790-74324c2d1277/3.png?AWSAccessKeyId=cloudconvert-production&Expires=1611853271&Signature=jVPgc4Da3T8DHyvcI5r8q7TVFGI%3D&response-content-disposition=inline%3B%20filename%3D%223.png%22&response-content-type=image%2Fpng)
