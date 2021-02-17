@@ -27,8 +27,8 @@ Para que una API se considere de **RESTful**, debe cumplir los siguientes criter
 # HATEAOS
 Ofrecer una interfaz universal. El cliente pueda moverse por la aplicación web únicamente siguiendo a los identificadores únicos URI en formato hipermedia.
 
-![HATEAOS](/Imatges/3.PNG?raw=true "Optional Title")
+![HATEAOS](/Imatges/3.png?raw=true "Optional Title")
 
 # Shaping Data
 
-![Shaping Data](/Imatges/4.png?raw=true "Optional Title")
+![Shaping Data](/Imatges/4.PNG?raw=true "Optional Title")
