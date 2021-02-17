@@ -18,17 +18,17 @@ Para que una API se considere de **RESTful**, debe cumplir los siguientes criter
 
 # CACHING - Validation Model - Etags
 
-![Validation Model](https://storage.cloudconvert.com/tasks/a7c1ede7-11a9-474f-af08-f1a38617a688/1.png?AWSAccessKeyId=cloudconvert-production&Expires=1611853268&Signature=NqZvrOp52J06CCaW61uLLa4HMns%3D&response-content-disposition=inline%3B%20filename%3D%221.png%22&response-content-type=image%2Fpng)
+![Validation Model](/Imatges/1.png?raw=true "Optional Title")
 
 # Supporting Concurrency
 
-![Supporting Concurrency](https://storage.cloudconvert.com/tasks/b1197cde-d478-44cf-8d94-77123c0103f0/2.png?AWSAccessKeyId=cloudconvert-production&Expires=1611853276&Signature=%2FV%2B6SaBogKlpwaAynP7uiLv3Rog%3D&response-content-disposition=inline%3B%20filename%3D%222.png%22&response-content-type=image%2Fpng)
+![Supporting Concurrency](/Imatges/2.png?raw=true "Optional Title")
 
 # HATEAOS
 Ofrecer una interfaz universal. El cliente pueda moverse por la aplicación web únicamente siguiendo a los identificadores únicos URI en formato hipermedia.
 
-![HATEAOS](https://storage.cloudconvert.com/tasks/72af824f-97ba-4399-9fb4-594538acc784/4.png?AWSAccessKeyId=cloudconvert-production&Expires=1611853276&Signature=Au4nl9FbaaKEP90E6QouzgELjIU%3D&response-content-disposition=inline%3B%20filename%3D%224.png%22&response-content-type=image%2Fpng)
+![HATEAOS](/Imatges/3.png?raw=true "Optional Title")
 
 # Shaping Data
 
-![Shaping Data](https://storage.cloudconvert.com/tasks/9ad4aec8-b070-444c-a790-74324c2d1277/3.png?AWSAccessKeyId=cloudconvert-production&Expires=1611853271&Signature=jVPgc4Da3T8DHyvcI5r8q7TVFGI%3D&response-content-disposition=inline%3B%20filename%3D%223.png%22&response-content-type=image%2Fpng)
+![Shaping Data](/Imatges/4.png?raw=true "Optional Title")
