@@ -22,12 +22,12 @@ Para que una API se considere de **RESTful**, debe cumplir los siguientes criter
 
 # Supporting Concurrency
 
-![Supporting Concurrency](/Imatges/2.png?raw=true "Optional Title")
+![Supporting Concurrency](/Imatges/2.PNG?raw=true "Optional Title")
 
 # HATEAOS
 Ofrecer una interfaz universal. El cliente pueda moverse por la aplicación web únicamente siguiendo a los identificadores únicos URI en formato hipermedia.
 
-![HATEAOS](/Imatges/3.png?raw=true "Optional Title")
+![HATEAOS](/Imatges/3.PNG?raw=true "Optional Title")
 
 # Shaping Data
 
